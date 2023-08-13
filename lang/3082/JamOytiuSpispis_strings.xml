@@ -1,0 +1,127 @@
+﻿<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <JamOytiuSpispis>Jamoytius</JamOytiuSpispis>
+      <JamOytiuSpispis_stt>Jamoytius</JamOytiuSpispis_stt>
+      <JamOytiuSpispis_lower>El Jamoytius</JamOytiuSpispis_lower>
+      <JamOytiuSpispis_ltt>
+         <color r="255" g="248" b="178">
+            <b>Jamoytius</b>
+         </color>
+         <br/>
+         Click para adoptar un Jamoytius.
+      </JamOytiuSpispis_ltt>
+      <!--gift names-->
+      <JamOytiuSpispis_Gift>Mochila de Jamoytius</JamOytiuSpispis_Gift>
+      <JamOytiuSpispis_Gift_stt>Mochila de Jamoytius</JamOytiuSpispis_Gift_stt>
+      <JamOytiuSpispis_Gift_lower>La Mochila de Jamoytius</JamOytiuSpispis_Gift_lower>
+      <JamOytiuSpispis_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Mochila de Jamoytius</b>
+         </color>
+         <br/>La gente compra este regalo cuando ve al Jamoytius.
+      </JamOytiuSpispis_Gift_ltt>
+</entityname>
+<zoopedia_jamoytiuspispis>
+ <entry>Jamoytius</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/JamOytiuSpispis/JamOytiuSpispis_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Estado de conservacion:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      Extincto
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Costa<br/></color>
+     <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Mar<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Clase: <i>(Anaspida)</i><br/>Orden: Jaymotiiformes <br/>Familia: Jamoytiiformes <br/>Genero: <i>Jamoytius</i><br/>Especie: <i>J. Kerwoodi</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Datos divertidos del Jamoytius</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Jamoytius es el primer anaspido conozido.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Surgio en el Silurico.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"> Puede llegar a medir 27 centimetros de largo.</color> 
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Para desbloquear el Jamoytius necesitas 1 estrella de fama en tu zoo. 
+   </color>
+   <p/>Jamoytius es un pez anaspido que aparecio en el Silurico, y de hecho es el primero. Este pez era alargado y tenia una aleta dorsal, dos pectorales que le recorrian gran parte del cuerpo y una cola. Su boca era redonda, para succionar sus presas, pero se gesticula que se adheria como las lampreas a peces de major tamaño de esa epoca, como acantodeos o otros peces grandes.  Tambien es el primer vertebrado conocido con ojos tipo camara. Jamoytius tenia un esqueleto cartilaginoso y una canasta branquial como la de las lampreas.
+   <p/>
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Contenido de <color r="255" g="231" b="135">Wikipedia</color> Imago
+  </cell>
+ </text>
+</zoopedia_jamoytiuspispis>
+</ZT2Strings>

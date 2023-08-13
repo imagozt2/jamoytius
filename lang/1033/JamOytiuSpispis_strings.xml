@@ -1,0 +1,127 @@
+﻿<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <JamOytiuSpispis>Jamoytius</JamOytiuSpispis>
+      <JamOytiuSpispis_stt>Jamoytius</JamOytiuSpispis_stt>
+      <JamOytiuSpispis_lower>The Jamoytius</JamOytiuSpispis_lower>
+      <JamOytiuSpispis_ltt>
+         <color r="255" g="248" b="178">
+            <b>Jamoytius</b>
+         </color>
+         <br/>
+         Click to adopt a Jamoytius.
+      </JamOytiuSpispis_ltt>
+      <!--gift names-->
+      <JamOytiuSpispis_Gift>Jamoytius rucksack</JamOytiuSpispis_Gift>
+      <JamOytiuSpispis_Gift_stt>Jamoytius rucksack</JamOytiuSpispis_Gift_stt>
+      <JamOytiuSpispis_Gift_lower>The Jamoytius rucksack</JamOytiuSpispis_Gift_lower>
+      <JamOytiuSpispis_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Jamoytius rucksack</b>
+         </color>
+         <br/>The people buy this gift when it sees the Jamoytius.
+      </JamOytiuSpispis_Gift_ltt>
+</entityname>
+<zoopedia_jamoytiuspispis>
+ <entry>Jamoytius</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/JamOytiuSpispis/JamOytiuSpispis_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      Extinct
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Coastal<br/></color>
+     <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Sea<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: <i>(Anaspida)</i><br/>Order: Jaymotiiformes <br/>Family:  Jamoytiidae <br/>Generate: <i>Jamoytius</i><br/>Specis: <i>J. Kerwoodi
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun facts of Jamoytius</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Is similar to a lamprey.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Its measure 27 cm.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"> Live in Silurian.</color> 
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unblock the Jamoytius you need 1 star of reputation in your zoo. 
+   </color>
+   <p/>Jamoytius kerwoodi was a species of primitive, eel-like jawless fish that lived in the Silurian period. J. kerwoodi is the earliest known anaspid. It had long, paired fins running along its body - making it a good swimmer. J. kerwoodi resembled a lamprey, especially with its rounded mouth and elongated body. However, as it had no teeth or teeth-like structures in its mouth, it was not carnivorous like its distant modern-day relative, the lamprey. It was more likely to have been a filter-feeder or a detrius-feeder, possibly in the manner of larval lampreys. The fish had a cartilaginous skeleton, and a branchial basket resembling the cyclostomes - used to suggest that it was a near-ancestor to that clade. It is also the earliest known vertebrate with camera-type eyes. It also possessed weakly mineralised scales. Jamoytius was originally named by Errol White on the basis of two specimens (the generic name is a reference to J. A. Moy-Thomas) and, at the time, it was considered to be the most basal vertebrate known. Since then, it has been reclassified by many workers as having many different affinities, such as an unspecialized anaspid, or as a sister taxon to the lampreys, its difficulty in classification due to difficulties in reconstructing the anatomy; it does not possess any usual chordate synapomorphies..
+   <p/>
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Content from <color r="255" g="231" b="135">Wikipedia</color>Imago
+  </cell>
+ </text>
+</zoopedia_jamoytiuspispis>
+</ZT2Strings>
